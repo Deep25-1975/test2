@@ -2,6 +2,6 @@
 
 int main() {
     std::cout << "Hello, World 234!" << std::endl;
-    std::cout << "Hello, Studentss!" << std::endl;
+    std::cout << "Hello, Roosh!" << std::endl;
     return 0;
 }
